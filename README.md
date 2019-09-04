@@ -1,5 +1,5 @@
 # Dense_SaliGan
-A Novel Approach for Building a Saliency System for Eye Fixation Prediction
+A New Approach for Building a Saliency System for Eye Fixation Prediction
 
 #### -- Project Status: [Completed]
 
