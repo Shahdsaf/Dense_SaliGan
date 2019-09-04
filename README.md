@@ -29,6 +29,8 @@ Link to trained models : https://informatikunihamburgde-my.sharepoint.com/:f:/g/
 
 Link to TensorBoard summaries: https://informatikunihamburgde-my.sharepoint.com/:f:/g/personal/shahd_safarani_informatik_uni-hamburg_de/EiwS2jSNwqRCgzJPapdHN4MBnxaKVw7Z6dBqy8_HvNCGqQ?e=wVboXZ 
 
+Results on test images of MIT300 benchmark already submitted and waiting for evaluation.
+
 
 ## Contact
 Please in case of any quetions, contact info: shahdsaf@hotmail.com
