@@ -9,7 +9,7 @@ The purpose of this project is to build a saliency system that is generalizable 
 ### Methods Used
 * Generative Adversarial Networks 
 * Autoencoders
-* Multiple-path processing
+* Multiple-scale processing
 
 ### Technologies
 * Python
